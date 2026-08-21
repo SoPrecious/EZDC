@@ -1,0 +1,7 @@
+# Ignore all files by default
+*
+
+# Allow only EZDC.exe and README.md
+!EZDC.exe
+!README.md
+!.gitignore
